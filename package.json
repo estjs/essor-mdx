@@ -1,6 +1,6 @@
 {
   "name": "essor-mdx",
-  "version": "0.0.7",
+  "version": "0.0.0",
   "packageManager": "pnpm@9.3.0",
   "description": "",
   "type": "module",
